@@ -1,0 +1,18 @@
+[
+  {
+    "id": "ISS-101",
+    "title": "Unable to access Wi-Fi",
+    "description": "Connection fails in the teaching lab.",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2026-09-01T09:00:00.000Z"
+  },
+  {
+    "id": "54365187-4a92-4f1a-a8e4-97b8f1b23a25",
+    "title": "Printer unavailable",
+    "description": "The shared printer is not responding.",
+    "priority": "Medium",
+    "status": "Open",
+    "createdAt": "2026-10-20T11:55:47.464Z"
+  }
+]
